@@ -1,0 +1,3 @@
+O(1)      // Best case: Already sorted
+O(n^2)    // Average case: Quadratic time complexity
+O(n^2)    // Worst case: Quadratic time complexity
